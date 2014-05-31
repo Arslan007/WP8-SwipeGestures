@@ -17,7 +17,7 @@ Visual Studio 2012
 I have tested on Windows Phone 7.5/8.0/8.1 and it works perfect on all.
 
 ### Credits:
-Special thanks and credit goes to Colin Eberhardt's wonderfull article on this below link. It was starting point for me :)
+Special thanks and credit goes to Colin Eberhardt's wonderfull article on this below link. It was infact starting point for me :)
 
 http://www.codeproject.com/Articles/428088/A-Gesture-Driven-Windows-Phone-To-Do-List
 

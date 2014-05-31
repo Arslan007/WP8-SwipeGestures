@@ -22,6 +22,6 @@ Special thanks and credit goes to Colin Eberhardt's wonderfull article on this b
 http://www.codeproject.com/Articles/428088/A-Gesture-Driven-Windows-Phone-To-Do-List
 
 ### Contact:
-Fee free to contact me :)
+Feel free to contact me :)
 
 Email: Arslan.Pervaiz@outlook.com

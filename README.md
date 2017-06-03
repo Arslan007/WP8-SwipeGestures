@@ -1,6 +1,8 @@
 ## Swipe Gestures Driven Windows Phone List
 
 =======================================
+
+
 This project is a swipe gesture driven Windows Phone list application modelled on the Tango iPhone application Swipe gestures on Table View Cell.
 I have tried to replicate almost same gestures effects in this application.
 
